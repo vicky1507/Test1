@@ -60,7 +60,7 @@
                 </div>
                
             </div>
-            <div class="panel-footer" align="center"><font style="color: #111">Copyright @2017  Tech Mahindra Pvt. Ltd., All Rights Reserved. </font></div>
+            <div class="panel-footer" align="center"><font style="color: #111"> </font></div>
         </div>
     </div>
    
