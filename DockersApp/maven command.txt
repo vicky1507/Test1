@@ -1,0 +1,3 @@
+#go upto the path of pom.xml of DockerPOCParent project and execute below command make a build:
+
+mvn clean install

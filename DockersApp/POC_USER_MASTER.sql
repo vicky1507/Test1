@@ -1,0 +1,20 @@
+CREATE TABLE POC_USER_MASTER
+(
+  USERID    VARCHAR2(50 BYTE),
+  PASSWORD  VARCHAR2(50 BYTE),
+  FULLNAME  VARCHAR2(50 BYTE)
+);
+
+Insert into POC_USER_MASTER
+   (USERID, PASSWORD, FULLNAME)
+ Values
+   ('user1', 'user1', 'USER1');
+Insert into POC_USER_MASTER
+   (USERID, PASSWORD, FULLNAME)
+ Values
+   ('user2', 'user2', 'USER2');
+Insert into POC_USER_MASTER
+   (USERID, PASSWORD, FULLNAME)
+ Values
+   ('user', 'user', 'USER');
+COMMIT;
